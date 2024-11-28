@@ -1,2 +1,3 @@
 additions/
-idea/
+*.log
+*.idea/
